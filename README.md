@@ -1,6 +1,6 @@
 # Problem-1-DCP
 
-(From Daily Coding Problems)
+(from Daily Coding Problems)
 
 Good morning. Here's your coding interview problem for today.
 
